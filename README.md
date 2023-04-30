@@ -36,3 +36,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ![CH11-NOTES_TAKER](https://github.com/tylerjwait/CH11-NOTE_TAKER/blob/main/assets/Tyler's%20Note%20Taker.png)
 
+LINK TO GITHUB REPO>>>> 'https://github.com/tylerjwait/CH11-NOTE_TAKER'
+
+LINK TO DEPLOYED APP ON HEROKU>>>> 'https://limitless-everglades-91123.herokuapp.com/'
